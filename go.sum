@@ -1,5 +1,3 @@
-github.com/Lexographics/logar v1.2.1 h1:FPD312TahEe+C909wP6m7VFsWcqQirhW6t8KnAqq/0w=
-github.com/Lexographics/logar v1.2.1/go.mod h1:7w+MOU6aAfvD6K+qFw/ntZ4RBYPAggA/Z4i5JITIcws=
 github.com/expr-lang/expr v1.17.2 h1:o0A99O/Px+/DTjEnQiodAgOIK9PPxL8DtXhBRKC+Iso=
 github.com/expr-lang/expr v1.17.2/go.mod h1:8/vRC7+7HBzESEqt5kKpYXxrxkr31SaO8r40VO/1IT4=
 github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=

@@ -2,7 +2,7 @@ module sadk.dev/logar-web
 
 go 1.23.3
 
-require sadk.dev/logar v1.2.1
+require sadk.dev/logar v1.2.3
 
 replace sadk.dev/logar => ../logar
 
