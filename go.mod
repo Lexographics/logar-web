@@ -1,10 +1,10 @@
-module github.com/Lexographics/logar-web
+module sadk.dev/logar-web
 
 go 1.23.3
 
-require github.com/Lexographics/logar v1.2.1
+require sadk.dev/logar v1.2.1
 
-replace github.com/Lexographics/logar => ../logar
+replace sadk.dev/logar => ../logar
 
 require (
 	github.com/expr-lang/expr v1.17.2 // indirect

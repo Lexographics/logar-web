@@ -4,8 +4,8 @@ import (
 	"embed"
 	"net/http"
 
-	"github.com/Lexographics/logar"
-	"github.com/Lexographics/logar/api"
+	"sadk.dev/logar"
+	"sadk.dev/logar/api"
 )
 
 //go:embed build/*
