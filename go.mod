@@ -4,8 +4,6 @@ go 1.23.3
 
 require sadk.dev/logar v1.2.3
 
-replace sadk.dev/logar => ../logar
-
 require (
 	github.com/expr-lang/expr v1.17.2 // indirect
 	github.com/google/uuid v1.6.0 // indirect
