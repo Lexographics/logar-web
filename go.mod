@@ -2,7 +2,7 @@ module sadk.dev/logar-web
 
 go 1.23.3
 
-require sadk.dev/logar v1.2.8
+require sadk.dev/logar v1.2.9
 
 require (
 	github.com/expr-lang/expr v1.17.2 // indirect
