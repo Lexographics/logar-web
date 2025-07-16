@@ -31,6 +31,7 @@ func ServeHTTP(url, basePath string, l logar.App) http.Handler {
 		BasePath:       basePath,
 		ApiURL:         url + basePath,
 		WebClientFiles: &staticFiles,
+		SSEEnabled:     l.IsSSEEnabled(),
 	})
 	handler.Router(router)
 
